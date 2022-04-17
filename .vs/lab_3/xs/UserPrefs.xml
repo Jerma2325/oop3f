@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D07B6C35-2C03-4F4D-BA6B-30FC057EB2FB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab_3/CommonLogger.cs">
+    <Files>
+      <File FileName="lab_3/Program.cs" Line="24" Column="2" />
+      <File FileName="lab_3/SocketLogger.cs" Line="24" Column="9" />
+      <File FileName="lab_3/ClientSocket.cs" Line="63" Column="25" />
+      <File FileName="lab_3/CommonLogger.cs" Line="19" Column="1" />
+      <File FileName="lab_3/WriterLogger.cs" Line="13" Column="49" />
+      <File FileName="lab_3/ConsoleLogger.cs" Line="10" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab_3" expanded="True">
+            <Node name="lab_3" expanded="True">
+              <Node name="CommonLogger.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.lab__3 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
